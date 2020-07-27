@@ -1,6 +1,6 @@
 function Communication() {
 
-    const Connection = require('node_modules/tedious').Connection;  
+    const Connection = require('node_modules\tedious').Connection;  
         var config = {  
             server: "techets.database.windows.net",  //update me
             authentication: {
