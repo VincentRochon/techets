@@ -22,3 +22,7 @@ function Communication() {
             console.log("Connected");  
         });
 }
+
+function test(){
+    console.log("Test");
+}
