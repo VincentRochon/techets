@@ -23,6 +23,6 @@ function Communication() {
         });
 }
 
-function test(){
+function Test(){
     console.log("Test");
 }
